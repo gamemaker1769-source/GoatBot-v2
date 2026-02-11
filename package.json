@@ -1,7 +1,7 @@
 {
-	"name": "__𝐻𝐴𝑆𝐴𝑁'𝑆_𝐵𝑂𝑇__",
+	"name": "Mukhe",
 	"version": "1.5.35",
-	"description": "A simple Bot chat messenger using personal account. Made by NTKhang.",
+	"description": "A simple Bot chat messenger using personal account. Made by Light⚡.",
 	"main": "index.js",
 	"engines": {
 		"node": "20.x",
